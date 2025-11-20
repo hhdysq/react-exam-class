@@ -1,0 +1,84 @@
+  {
+    "id": "2e0cbfab-06d9-4642-9c3d-eabab32e9f2a",
+    "name": "环保大作战",
+    "knowledge_points": "（三）复式统计表",
+    "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (12).png",
+    "game_introduction": "暴风后垃圾四散，莎莎受命加入“环保大作战”，唯有把不同废物分门别类并记录数量，城市的绿色能量墙才会重新点亮。",
+    "game_operation": "根据文字提示通过键盘方向操控、鼠标拖拽等方式帮助莎莎拾取垃圾并分类放置在垃圾桶中，最后将每种垃圾的数量统计出来。",
+    "game_scene": [
+      {
+        "scene_id": "1",
+        "scene_background_color": "#3C2620",
+        "scene_background_img_url": "",
+        "question_answer": [
+          {
+            "question_text": "用⬅️、➡️方向键帮助莎莎拾取垃圾",
+            "question_images": [],
+            "answer": "",
+            "whiteboard_area_fixed": [
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/白板固定.png"
+            ],
+            "whiteboard_area_operable": [
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控_莎莎 (1).svg",
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾1_水瓶 (1).png",
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾2_灯泡 (1).png",
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾3_电池 (1).png",
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾4_果核 (1).png"
+            ],
+            "background_color": null
+          }
+        ]
+      },
+      {
+        "scene_id": "2",
+        "scene_background_color": "",
+        "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (7).png",
+        "question_answer": [
+          {
+            "question_text": "请把垃圾分类放好统计数量：同样的垃圾拖进同一个垃圾桶里。",
+            "question_images": [
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾1_水瓶 (1).png",
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾2_灯泡 (1).png",
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾3_电池 (1).png",
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾4_果核 (1).png"
+            ],
+            "answer": "",
+            "whiteboard_area_fixed": [
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾箱1 (1).svg",
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾箱2 (1).svg",
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾箱3 (1).svg",
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾箱4 (1).svg"
+            ],
+            "whiteboard_area_operable": [],
+            "background_color": null
+          }
+        ]
+      },
+      {
+        "scene_id": "3",
+        "scene_background_color": "",
+        "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (7).png",
+        "question_answer": [
+          {
+            "question_text": "按照每种垃圾的数量，通过向上拖动矩形，将左边的柱状统计图填写正确",
+            "question_images": [],
+            "answer": "",
+            "whiteboard_area_fixed": [
+              "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/统计表.svg"
+            ],
+            "whiteboard_area_operable": [
+              "#C6FBFA",
+              "#DFC6FB",
+              "#FBCAC6",
+              "#FBF6C6"
+            ],
+            "background_color": null
+          }
+        ]
+      }
+    ],
+    "subject": "Math",
+    "grade": 3,
+    "semester": 2,
+    "game_status": null
+  }

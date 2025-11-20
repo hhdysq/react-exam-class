@@ -1,0 +1,181 @@
+{
+    "id": "8b76a41f-91ae-4e42-a92d-c673c2f5c8cb",
+    "name": "寻宝冒险",
+    "knowledge_points": "（一）位置与方位",
+    "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (8).png",
+    "game_introduction": "悟灵在古老地图上发现了“方位之岛”。只有听懂灵光罗盘的方向密语，才能走到真正的宝箱前",
+    "game_operation": "根据上根据题干指示，通过点击右侧方向键操控悟灵走到正确的宝箱位置，点击提交确认。",
+    "game_scene": [
+        {
+            "scene_id": "1",
+            "scene_background_color": "#FFDFA9",
+            "scene_background_img_url": "",
+            "question_answer": [
+                {
+                    "question_text": "悟灵先向北走了4格，又向东走了3格，请问ta拿到了哪个宝箱？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+                    ],
+                    "answer": "（10，9）",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                        "主控初始位置：（7，5）"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "悟灵先向南方走了3格，请问ta拿到了哪个宝箱？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+                    ],
+                    "answer": "（7，2）",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                        "主控初始位置：（7，5）"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "悟灵先向南走了1格，又向西走了5格，请问ta拿到了哪个宝箱？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+                    ],
+                    "answer": "（2，4）",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                        "主控初始位置：（7，5）"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "悟灵先向西走了4格，又向北走了3格，请问ta拿到了哪个宝箱？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+                    ],
+                    "answer": "（3，8）",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                        "主控初始位置：（7，5）"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "悟灵先向西走了3格，又向南走了4格，请问ta拿到了哪个宝箱？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+                    ],
+                    "answer": "（4，1）",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                        "主控初始位置：（7，5）"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "悟灵先向南走了1格，又向东走了5格，请问ta拿到了哪个宝箱？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+                    ],
+                    "answer": "（12，4）",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                        "主控初始位置：（7，5）"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "悟灵先向西走了5格，又向北走了1格，请问ta拿到了哪个宝箱？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+                    ],
+                    "answer": "（2，6）",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                        "主控初始位置：（7，5）"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "悟灵先向东走了2格，又向南走了3格，请问ta拿到了哪个宝箱？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+                    ],
+                    "answer": "（9，2）",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                        "主控初始位置：（7，5）"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "悟灵先向北走了2格，又向南走了3格，请问ta拿到了哪个宝箱？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+                    ],
+                    "answer": "（10，7）",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                        "主控初始位置：（7，5）"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "悟灵先向西走了6格，又向南走了4格，请问ta拿到了哪个宝箱？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+                    ],
+                    "answer": "（13，1）",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                        "主控初始位置：（7，5）"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+                    ],
+                    "background_color": null
+                }
+            ]
+        }
+    ],
+    "subject": "Math",
+    "grade": 3,
+    "semester": 2,
+    "game_status": null
+}

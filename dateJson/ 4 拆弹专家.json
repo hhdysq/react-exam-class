@@ -1,0 +1,175 @@
+{
+    "id": "2e0cbfab-06d9-4642-9c3d-eabab32e9f2b",
+    "name": "拆弹专家",
+    "knowledge_points": "（四）两位数乘两位数",
+    "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (13).png",
+    "game_introduction": "炸弹的脉搏随数字跳动；你须以估算裁决真伪，换来整座城的安静。",
+    "game_operation": "如果算式正确就点击右侧✅，如果算式错误则点击右侧❌，帮助悟灵拆除炸弹。",
+    "game_scene": [
+        {
+            "scene_id": "1",
+            "scene_background_color": "#DAC9B9",
+            "scene_background_img_url": "",
+            "question_answer": [
+                {
+                    "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+                    ],
+                    "answer": "❌",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "23×22=66"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+                    ],
+                    "answer": "✅",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "22×43=154"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+                    ],
+                    "answer": "✅",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "31×13=223"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+                    ],
+                    "answer": "✅",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "34×12=408"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+                    ],
+                    "answer": "✅",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "21×34=694"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+                    ],
+                    "answer": "❌",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "15×62=936"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+                    ],
+                    "answer": "✅",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "43×46=1978"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+                    ],
+                    "answer": "❌",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "55×55=325"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+                    ],
+                    "answer": "✅",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "23×22=506"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+                    ],
+                    "answer": "✅",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "15×15=225"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+                    ],
+                    "answer": "✅",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "27×18=486"
+                    ],
+                    "background_color": null
+                }
+            ]
+        }
+    ],
+    "subject": "Math",
+    "grade": 3,
+    "semester": 2,
+    "game_status": null
+}

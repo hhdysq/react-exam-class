@@ -1,0 +1,114 @@
+{
+    "id": "2e0cbfab-06d9-4642-9c3d-eabab32e9f2f",
+    "name": "宝石鉴赏家",
+    "knowledge_points": "（七）小数的初步认识",
+    "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (16).png",
+    "game_introduction": "今晚是宝石评选夜，只有把宝石按提示的“数字等级”排好队，评委的金色绶带才会出现。",
+    "game_operation": "根据提示，拖拽调整宝石顺序使其符合要求。",
+    "game_scene": [
+        {
+            "scene_id": "1",
+            "scene_background_color": "#FFDE95",
+            "scene_background_img_url": "",
+            "question_answer": [
+                {
+                    "question_text": "移动宝石位置，将小数宝石和它的文字标签配对",
+                    "question_images": [],
+                    "answer": "2.0：二点零\n2.5:二点五\n3.12:三点一二\n1.11:一点一一",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/标签.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石a.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石b.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石c.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石d.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石e.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石f.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石g.svg"
+                    ],
+                    "background_color": null
+                }
+            ]
+        },
+        {
+            "scene_id": "2",
+            "scene_background_color": "#FFDE95",
+            "scene_background_img_url": "",
+            "question_answer": [
+                {
+                    "question_text": "请将这些小数宝石按 从大到小 的顺序排列",
+                    "question_images": [],
+                    "answer": "1.11,1.9,2.5,3.12",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/排序.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石a.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石b.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石c.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石d.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石e.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石f.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石g.svg"
+                    ],
+                    "background_color": null
+                }
+            ]
+        },
+        {
+            "scene_id": "3",
+            "scene_background_color": "",
+            "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (7).png",
+            "question_answer": [
+                {
+                    "question_text": "请点击所有藏有 小数 的宝石",
+                    "question_images": [],
+                    "answer": "2.5,3.12",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/点击.png"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石a.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石b.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石c.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石d.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石e.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石f.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石g.svg"
+                    ],
+                    "background_color": null
+                }
+            ]
+        },
+        {
+            "scene_id": "4",
+            "scene_background_color": "",
+            "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (7).png",
+            "question_answer": [
+                {
+                    "question_text": "根据数轴调整宝石顺序，使它们从小到大排列。",
+                    "question_images": [],
+                    "answer": "0.3，0.5，1.1，1.4，1.9，2.4，2.7",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/数轴.svg"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石a.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石b.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石c.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石d.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石e.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石f.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石g.svg"
+                    ],
+                    "background_color": null
+                }
+            ]
+        }
+    ],
+    "subject": "Math",
+    "grade": 3,
+    "semester": 2,
+    "game_status": null
+}

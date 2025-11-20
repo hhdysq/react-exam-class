@@ -1,0 +1,119 @@
+{
+    "id": "2e0cbfab-06d9-4642-9c3d-eabab32e9f3a",
+    "name": "创意大厨的菜谱",
+    "knowledge_points": "（八）排列与组合",
+    "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (17).png",
+    "game_introduction": "欢迎来到悟灵的小厨房！在这里，你将成为一名创意无限的大厨，通过组合不同的食材来创造新菜肴。",
+    "game_operation": "你将面对各种食材组合挑战，点击每组的食材，进行组合，就可以创造出一道新菜。你需要找到所有可能的组合方式，一个都不能少哦！",
+    "game_scene": [
+        {
+            "scene_id": "1",
+            "scene_background_color": "#FFEAD5",
+            "scene_background_img_url": "",
+            "question_answer": [
+                {
+                    "question_text": "你有 3 种肉类和 4 种蔬菜。请搭配出所有不重复的荤素搭配组合！",
+                    "question_images": [
+                        "🍗 🥩 🍖 🥕 🥔 🌶️ 🫑"
+                    ],
+                    "answer": "12",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "你有 2种冰淇淋和 4 种口味。请搭配出所有不重复的冰淇淋口味组合！",
+                    "question_images": [
+                        "🍦 🍨 🥭 🍓 🫐 🥝"
+                    ],
+                    "answer": "8",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "一份饮料+一种小吃为一个单人套餐，请搭配出所有不重复的单人套餐组合！",
+                    "question_images": [
+                        "🥤 🍔 🍿 🍟"
+                    ],
+                    "answer": "3",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "一份饮料+一种主食+一份甜品为一个三件套餐，请搭配出所有不重复的三件套餐组合！！",
+                    "question_images": [
+                        "🥛 🍛 🍜 🍩 🍬 🍰"
+                    ],
+                    "answer": "6",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "你有 2种 饮品和 5种水果。请搭配出所有不重复口味的饮料组合！",
+                    "question_images": [
+                        "🍞 🥖 🍓 🍌 🥑 🫐 🥝"
+                    ],
+                    "answer": "10",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "你有 2 种肉类和 3种蔬菜。请搭配出所有不重复的荤素搭配组合！",
+                    "question_images": [
+                        "🍗 🥩 🥦 🍆 🍅"
+                    ],
+                    "answer": "6",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+                    ],
+                    "background_color": null
+                },
+                {
+                    "question_text": "你有 3 冰淇淋和 3 种口味。请搭配出所有不重复的冰淇淋口味组合！",
+                    "question_images": [
+                        "🍨 🍦 🍧 🍫 🫘 🥝"
+                    ],
+                    "answer": "9",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+                    ],
+                    "whiteboard_area_operable": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+                    ],
+                    "background_color": null
+                }
+            ]
+        }
+    ],
+    "subject": "Math",
+    "grade": 3,
+    "semester": 2,
+    "game_status": null
+}

@@ -1,0 +1,125 @@
+{
+    "id": "2e0cbfab-06d9-4642-9c3d-eabab32e9f2c",
+    "name": "魔法图形面积挑战",
+    "knowledge_points": "（五）面积",
+    "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (20).png",
+    "game_introduction": "小悟灵正在建造它的魔法小屋。它需要你帮助测量并计算不同房间的地面面积，才能铺上正确的魔法地毯！",
+    "game_operation": "第一步：添加“点”的数量直至能组成一个矩形。\n第二步：拖动点的位置，调整矩形面积。",
+    "game_scene": [
+        {
+            "scene_id": "1",
+            "scene_background_color": "",
+            "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/这是一个有渐变色的背景.png",
+            "question_answer": [
+                {
+                    "question_text": "画一个矩形，面积为：\n21个方块。",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+                    ],
+                    "answer": "",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+                    ],
+                    "whiteboard_area_operable": [],
+                    "background_color": null
+                },
+                {
+                    "question_text": "画一个矩形，面积为：\n35个方块。",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+                    ],
+                    "answer": "",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+                    ],
+                    "whiteboard_area_operable": [],
+                    "background_color": null
+                },
+                {
+                    "question_text": "画一个矩形，面积为：\n12个方块。",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+                    ],
+                    "answer": "",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+                    ],
+                    "whiteboard_area_operable": [],
+                    "background_color": null
+                },
+                {
+                    "question_text": "画一个矩形，面积为：\n25个方块。",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+                    ],
+                    "answer": "",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+                    ],
+                    "whiteboard_area_operable": [],
+                    "background_color": null
+                },
+                {
+                    "question_text": "画一个矩形，面积为：\n25个方块。",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+                    ],
+                    "answer": "",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+                    ],
+                    "whiteboard_area_operable": [],
+                    "background_color": null
+                },
+                {
+                    "question_text": "画一个矩形，面积为：\n32个方块。",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+                    ],
+                    "answer": "",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+                    ],
+                    "whiteboard_area_operable": [],
+                    "background_color": null
+                },
+                {
+                    "question_text": "画一个矩形，面积为：\n15个方块。",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+                    ],
+                    "answer": "",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+                    ],
+                    "whiteboard_area_operable": [],
+                    "background_color": null
+                },
+                {
+                    "question_text": "画一个矩形，面积为：\n16个方块。",
+                    "question_images": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+                    ],
+                    "answer": "",
+                    "whiteboard_area_fixed": [
+                        "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+                    ],
+                    "whiteboard_area_operable": [],
+                    "background_color": null
+                }
+            ]
+        }
+    ],
+    "subject": "Math",
+    "grade": 3,
+    "semester": 2,
+    "game_status": null
+}
