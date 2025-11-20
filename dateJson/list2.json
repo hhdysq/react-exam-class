@@ -1,0 +1,832 @@
+{
+  "total_count": 16,
+  "page": 2,
+  "page_size": 10,
+  "games": [
+    {
+      "id": "2e0cbfab-06d9-4642-9c3d-eabab32e9f2a",
+      "name": "环保大作战",
+      "knowledge_points": "（三）复式统计表",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (12).png",
+      "game_introduction": "暴风后垃圾四散，莎莎受命加入“环保大作战”，唯有把不同废物分门别类并记录数量，城市的绿色能量墙才会重新点亮。",
+      "game_operation": "根据文字提示通过键盘方向操控、鼠标拖拽等方式帮助莎莎拾取垃圾并分类放置在垃圾桶中，最后将每种垃圾的数量统计出来。",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "#3C2620",
+          "scene_background_img_url": "",
+          "question_answer": [
+            {
+              "question_text": "用⬅️、➡️方向键帮助莎莎拾取垃圾",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/白板固定.png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控_莎莎 (1).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾1_水瓶 (1).png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾2_灯泡 (1).png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾3_电池 (1).png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾4_果核 (1).png"
+              ],
+              "background_color": null
+            }
+          ]
+        },
+        {
+          "scene_id": "2",
+          "scene_background_color": "",
+          "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (7).png",
+          "question_answer": [
+            {
+              "question_text": "请把垃圾分类放好统计数量：同样的垃圾拖进同一个垃圾桶里。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾1_水瓶 (1).png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾2_灯泡 (1).png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾3_电池 (1).png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾4_果核 (1).png"
+              ],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾箱1 (1).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾箱2 (1).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾箱3 (1).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/垃圾箱4 (1).svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            }
+          ]
+        },
+        {
+          "scene_id": "3",
+          "scene_background_color": "",
+          "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (7).png",
+          "question_answer": [
+            {
+              "question_text": "按照每种垃圾的数量，通过向上拖动矩形，将左边的柱状统计图填写正确",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/统计表.svg"
+              ],
+              "whiteboard_area_operable": [
+                "#C6FBFA",
+                "#DFC6FB",
+                "#FBCAC6",
+                "#FBF6C6"
+              ],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 2,
+      "game_status": "not_started"
+    },
+    {
+      "id": "2e0cbfab-06d9-4642-9c3d-eabab32e9f2b",
+      "name": "拆弹专家",
+      "knowledge_points": "（四）两位数乘两位数",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (13).png",
+      "game_introduction": "炸弹的脉搏随数字跳动；你须以估算裁决真伪，换来整座城的安静。",
+      "game_operation": "如果算式正确就点击右侧✅，如果算式错误则点击右侧❌，帮助悟灵拆除炸弹。",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "#DAC9B9",
+          "scene_background_img_url": "",
+          "question_answer": [
+            {
+              "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+              ],
+              "answer": "❌",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+              ],
+              "whiteboard_area_operable": ["23×22=66"],
+              "background_color": null
+            },
+            {
+              "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+              ],
+              "answer": "✅",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+              ],
+              "whiteboard_area_operable": ["22×43=154"],
+              "background_color": null
+            },
+            {
+              "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+              ],
+              "answer": "✅",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+              ],
+              "whiteboard_area_operable": ["31×13=223"],
+              "background_color": null
+            },
+            {
+              "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+              ],
+              "answer": "✅",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+              ],
+              "whiteboard_area_operable": ["34×12=408"],
+              "background_color": null
+            },
+            {
+              "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+              ],
+              "answer": "✅",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+              ],
+              "whiteboard_area_operable": ["21×34=694"],
+              "background_color": null
+            },
+            {
+              "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+              ],
+              "answer": "❌",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+              ],
+              "whiteboard_area_operable": ["15×62=936"],
+              "background_color": null
+            },
+            {
+              "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+              ],
+              "answer": "✅",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+              ],
+              "whiteboard_area_operable": ["43×46=1978"],
+              "background_color": null
+            },
+            {
+              "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+              ],
+              "answer": "❌",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+              ],
+              "whiteboard_area_operable": ["55×55=325"],
+              "background_color": null
+            },
+            {
+              "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+              ],
+              "answer": "✅",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+              ],
+              "whiteboard_area_operable": ["23×22=506"],
+              "background_color": null
+            },
+            {
+              "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+              ],
+              "answer": "✅",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+              ],
+              "whiteboard_area_operable": ["15×15=225"],
+              "background_color": null
+            },
+            {
+              "question_text": "请快速判断出显示器中的算式是正确的还是错误的？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答题器（是非选项） (1).svg"
+              ],
+              "answer": "✅",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/算式显示.svg"
+              ],
+              "whiteboard_area_operable": ["27×18=486"],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 2,
+      "game_status": "not_started"
+    },
+    {
+      "id": "2e0cbfab-06d9-4642-9c3d-eabab32e9f2c",
+      "name": "魔法图形面积挑战",
+      "knowledge_points": "（五）面积",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (20).png",
+      "game_introduction": "小悟灵正在建造它的魔法小屋。它需要你帮助测量并计算不同房间的地面面积，才能铺上正确的魔法地毯！",
+      "game_operation": "第一步：添加“点”的数量直至能组成一个矩形。\n第二步：拖动点的位置，调整矩形面积。",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "",
+          "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/这是一个有渐变色的背景.png",
+          "question_answer": [
+            {
+              "question_text": "画一个矩形，面积为：\n21个方块。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+              ],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "画一个矩形，面积为：\n35个方块。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+              ],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "画一个矩形，面积为：\n12个方块。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+              ],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "画一个矩形，面积为：\n25个方块。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+              ],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "画一个矩形，面积为：\n25个方块。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+              ],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "画一个矩形，面积为：\n32个方块。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+              ],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "画一个矩形，面积为：\n15个方块。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+              ],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "画一个矩形，面积为：\n16个方块。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/加点.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/减点.svg"
+              ],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10x8的方格.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 2,
+      "game_status": "not_started"
+    },
+    {
+      "id": "2e0cbfab-06d9-4642-9c3d-eabab32e9f2e",
+      "name": "日历探险家",
+      "knowledge_points": "（六）年、月、日",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (15).png",
+      "game_introduction": "罗盘指向的并非方向，而是某年某月某日；拨开对的日历页，星路即亮。",
+      "game_operation": "根据题干内容，翻转日历选择正确的月份和时间。",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "#FFDA7B",
+          "scene_background_img_url": "",
+          "question_answer": [
+            {
+              "question_text": "点击翻转以下所有有31天的月份",
+              "question_images": [],
+              "answer": "1,3,5,7,8,10,12",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/背景板.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/1月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/2月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/3月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/4月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/5月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/6月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/7月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/8月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/9月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/11月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/12月（正）.png"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "点击翻转以下所有有30天的月份",
+              "question_images": [],
+              "answer": "4,6,9,11",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/背景板.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/1月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/2月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/3月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/4月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/5月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/6月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/7月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/8月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/9月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/11月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/12月（正）.png"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "点击翻转以下所有“大月”",
+              "question_images": [],
+              "answer": "1,3,5,7,8,10,12",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/背景板.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/1月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/2月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/3月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/4月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/5月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/6月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/7月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/8月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/9月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/11月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/12月（正）.png"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "点击翻转以下所有“小月”",
+              "question_images": [],
+              "answer": "4,6,9,11",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/背景板.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/1月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/2月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/3月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/4月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/5月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/6月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/7月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/8月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/9月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/11月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/12月（正）.png"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "点击翻转一年中的第一个季度是哪几个月？",
+              "question_images": [],
+              "answer": "1,2,3",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/背景板.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/1月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/2月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/3月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/4月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/5月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/6月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/7月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/8月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/9月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/11月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/12月（正）.png"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "点击翻转一年中的第二个季度是哪几个月？",
+              "question_images": [],
+              "answer": "4,5,6",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/背景板.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/1月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/2月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/3月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/4月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/5月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/6月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/7月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/8月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/9月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/11月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/12月（正）.png"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "点击翻转一年中的第三个季度是哪几个月？",
+              "question_images": [],
+              "answer": "7,8,9",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/背景板.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/1月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/2月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/3月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/4月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/5月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/6月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/7月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/8月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/9月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/11月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/12月（正）.png"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "点击翻转一年中的第四个季度是哪几个月？",
+              "question_images": [],
+              "answer": "10,11,12",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/背景板.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/1月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/2月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/3月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/4月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/5月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/6月（反面）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/7月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/8月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/9月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/10月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/11月（正）.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/12月（正）.png"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "今天是6月25日，再过10天是几月几日？",
+              "question_images": [],
+              "answer": "7月4日",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/背景板.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/今天.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/日历.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "今天是6月10日，再过23天是几月几日？",
+              "question_images": [],
+              "answer": "7月2日",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/背景板.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/今天.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/日历.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "今天是6月18日，再过16天是几月几日？",
+              "question_images": [],
+              "answer": "7月3日",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/背景板.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/今天.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/日历.svg"
+              ],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 2,
+      "game_status": "not_started"
+    },
+    {
+      "id": "2e0cbfab-06d9-4642-9c3d-eabab32e9f2f",
+      "name": "宝石鉴赏家",
+      "knowledge_points": "（七）小数的初步认识",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (16).png",
+      "game_introduction": "今晚是宝石评选夜，只有把宝石按提示的“数字等级”排好队，评委的金色绶带才会出现。",
+      "game_operation": "根据提示，拖拽调整宝石顺序使其符合要求。",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "#FFDE95",
+          "scene_background_img_url": "",
+          "question_answer": [
+            {
+              "question_text": "移动宝石位置，将小数宝石和它的文字标签配对",
+              "question_images": [],
+              "answer": "2.0：二点零\n2.5:二点五\n3.12:三点一二\n1.11:一点一一",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/标签.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石g.svg"
+              ],
+              "background_color": null
+            }
+          ]
+        },
+        {
+          "scene_id": "2",
+          "scene_background_color": "#FFDE95",
+          "scene_background_img_url": "",
+          "question_answer": [
+            {
+              "question_text": "请将这些小数宝石按 从大到小 的顺序排列",
+              "question_images": [],
+              "answer": "1.11,1.9,2.5,3.12",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/排序.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石g.svg"
+              ],
+              "background_color": null
+            }
+          ]
+        },
+        {
+          "scene_id": "3",
+          "scene_background_color": "",
+          "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (7).png",
+          "question_answer": [
+            {
+              "question_text": "请点击所有藏有 小数 的宝石",
+              "question_images": [],
+              "answer": "2.5,3.12",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/点击.png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石g.svg"
+              ],
+              "background_color": null
+            }
+          ]
+        },
+        {
+          "scene_id": "4",
+          "scene_background_color": "",
+          "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (7).png",
+          "question_answer": [
+            {
+              "question_text": "根据数轴调整宝石顺序，使它们从小到大排列。",
+              "question_images": [],
+              "answer": "0.3，0.5，1.1，1.4，1.9，2.4，2.7",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/数轴.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝石g.svg"
+              ],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 2,
+      "game_status": "not_started"
+    },
+    {
+      "id": "2e0cbfab-06d9-4642-9c3d-eabab32e9f3a",
+      "name": "创意大厨的菜谱",
+      "knowledge_points": "（八）排列与组合",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (17).png",
+      "game_introduction": "欢迎来到悟灵的小厨房！在这里，你将成为一名创意无限的大厨，通过组合不同的食材来创造新菜肴。",
+      "game_operation": "你将面对各种食材组合挑战，点击每组的食材，进行组合，就可以创造出一道新菜。你需要找到所有可能的组合方式，一个都不能少哦！",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "#FFEAD5",
+          "scene_background_img_url": "",
+          "question_answer": [
+            {
+              "question_text": "你有 3 种肉类和 4 种蔬菜。请搭配出所有不重复的荤素搭配组合！",
+              "question_images": ["🍗 🥩 🍖 🥕 🥔 🌶️ 🫑"],
+              "answer": "12",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "你有 2种冰淇淋和 4 种口味。请搭配出所有不重复的冰淇淋口味组合！",
+              "question_images": ["🍦 🍨 🥭 🍓 🫐 🥝"],
+              "answer": "8",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "一份饮料+一种小吃为一个单人套餐，请搭配出所有不重复的单人套餐组合！",
+              "question_images": ["🥤 🍔 🍿 🍟"],
+              "answer": "3",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "一份饮料+一种主食+一份甜品为一个三件套餐，请搭配出所有不重复的三件套餐组合！！",
+              "question_images": ["🥛 🍛 🍜 🍩 🍬 🍰"],
+              "answer": "6",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "你有 2种 饮品和 5种水果。请搭配出所有不重复口味的饮料组合！",
+              "question_images": ["🍞 🥖 🍓 🍌 🥑 🫐 🥝"],
+              "answer": "10",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "你有 2 种肉类和 3种蔬菜。请搭配出所有不重复的荤素搭配组合！",
+              "question_images": ["🍗 🥩 🥦 🍆 🍅"],
+              "answer": "6",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "你有 3 冰淇淋和 3 种口味。请搭配出所有不重复的冰淇淋口味组合！",
+              "question_images": ["🍨 🍦 🍧 🍫 🫘 🥝"],
+              "answer": "9",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/桌子 (1).png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/盘子.svg"
+              ],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 2,
+      "game_status": "not_started"
+    }
+  ]
+}

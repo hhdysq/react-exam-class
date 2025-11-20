@@ -1,0 +1,1838 @@
+{
+  "total_count": 16,
+  "page": 1,
+  "page_size": 10,
+  "games": [
+    {
+      "id": "8b76a41f-91ae-4e42-a92d-c673c2f5c8ca",
+      "name": "火眼金睛大挑战",
+      "knowledge_points": "（一）观察物品",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (18).png",
+      "game_introduction": "这里有一堆神奇的物品，它们隐藏在房间的各个角落。要找到它们，你可得拿出真本事！",
+      "game_operation": "物品会从正面、侧面和上面三个角度来展示自己。你的任务就是根据这些独特的线索，找出对应的物品。",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "#F2E7D1",
+          "scene_background_img_url": null,
+          "question_answer": [
+            {
+              "question_text": "你能根据以下轮廓，在玩具区里找到正确的物品吗？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具1三视图.svg"
+              ],
+              "answer": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具1.svg",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/固定白板区.png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具2.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具3.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具4.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具5.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具6.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具7.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具8.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "你能根据以下轮廓，在玩具区里找到正确的物品吗？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具2三视图.svg"
+              ],
+              "answer": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具2.svg",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/固定白板区.png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具2.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具3.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具4.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具5.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具6.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具7.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具8.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "你能根据以下轮廓，在玩具区里找到正确的物品吗？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具3三视图.svg"
+              ],
+              "answer": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具3.svg",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/固定白板区.png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具2.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具3.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具4.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具5.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具6.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具7.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具8.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "你能根据以下轮廓，在玩具区里找到正确的物品吗？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具4三视图.svg"
+              ],
+              "answer": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具4.svg",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/固定白板区.png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具2.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具3.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具4.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具5.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具6.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具7.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具8.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "你能根据以下轮廓，在玩具区里找到正确的物品吗？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具5三视图.svg"
+              ],
+              "answer": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具5.svg",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/固定白板区.png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具2.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具3.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具4.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具5.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具6.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具7.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具8.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "你能根据以下轮廓，在玩具区里找到正确的物品吗？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具6三视图.svg"
+              ],
+              "answer": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具6.svg",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/固定白板区.png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具2.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具3.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具4.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具5.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具6.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具7.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具8.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "你能根据以下轮廓，在玩具区里找到正确的物品吗？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具7三视图.svg"
+              ],
+              "answer": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具7.svg",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/固定白板区.png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具2.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具3.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具4.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具5.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具6.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具7.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具8.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "你能根据以下轮廓，在玩具区里找到正确的物品吗？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具8三视图.svg"
+              ],
+              "answer": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具8.svg",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/固定白板区.png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具2.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具3.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具4.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具5.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具6.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具7.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/玩具8.svg"
+              ],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 1,
+      "game_status": "success"
+    },
+    {
+      "id": "924d903d-4260-43e0-bd82-6de069a40362",
+      "name": "神奇运算大冒险",
+      "knowledge_points": "（二）混合运算",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploads/封面1.png",
+      "game_introduction": "在这里，你将成为一名拥有超能力的数学小英雄。无论是公交车上的人数变化，超市里商品的复杂计算，还是和小伙伴们一起分享美食，都会是你的挑战。",
+      "game_operation": "只要灵活运用加法、减法、乘法和除法这些神奇的“咒语”，你就能轻松解决所有难题。快来用你的数学超能力，开启这场有趣的冒险吧！",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "#C3E8F2",
+          "scene_background_img_url": null,
+          "question_answer": [
+            {
+              "question_text": "公交车上原来有 15 人，到站台之后 5 人下车了，又上来了 10 人，现在车上有多少人？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/上车+1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/下车-1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/乘客.png"
+              ],
+              "answer": "20",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/公交站.png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "公交车上原来有 2 人，到站台之后 1 人下车了，又上来了 5 人，现在车上有多少人？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/上车+1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/下车-1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/乘客.png"
+              ],
+              "answer": "6",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/公交站.png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "公交车上原来有 7 人，到站台之后 3 人下车了，又上来了 4 人，现在车上有多少人？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/上车+1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/下车-1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/乘客.png"
+              ],
+              "answer": "8",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/公交站.png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "公交车上原来有 8 人，到站台之后 2 人下车了，又上来了 5 人，现在车上有多少人？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/上车+1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/下车-1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/乘客.png"
+              ],
+              "answer": "11",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/公交站.png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "公交车上原来有 10 人，到站台之后 2 人下车了，又上来了 5 人，现在车上有多少人？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/上车+1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/下车-1.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/乘客.png"
+              ],
+              "answer": "13",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/公交站.png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            }
+          ]
+        },
+        {
+          "scene_id": "2",
+          "scene_background_color": "#FFD98E",
+          "scene_background_img_url": null,
+          "question_answer": [
+            {
+              "question_text": "悟灵买了 3 支铅笔，又买了5个橡皮。他一共花了多少钱？",
+              "question_images": [
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/铅笔.svg",
+                  "property_price": "¥ 2.00"
+                },
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/橡皮.svg",
+                  "property_price": "¥ 5.00"
+                }
+              ],
+              "answer": "31",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploads/超市.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/购物车.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/电视.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "莎莎买了 5支铅笔，又买了2个圆规。他一共花了多少钱？",
+              "question_images": [
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/铅笔.svg",
+                  "property_price": "¥ 2.00"
+                },
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/圆规.svg",
+                  "property_price": "¥ 8.00"
+                }
+              ],
+              "answer": "26",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploads/超市.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/购物车.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/电视.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "小九买了 3个橡皮，又买了1个卷笔刀。他一共花了多少钱？",
+              "question_images": [
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/卷笔刀.svg",
+                  "property_price": "¥ 3.00"
+                },
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/橡皮.svg",
+                  "property_price": "¥ 5.00"
+                }
+              ],
+              "answer": "18",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploads/超市.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/购物车.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/电视.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "空空买了3把美工刀，又买了1个订书机。他一共花了多少钱？",
+              "question_images": [
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/美工刀.svg",
+                  "property_price": "¥ 10.00"
+                },
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/订书机.svg",
+                  "property_price": "¥ 18.00"
+                }
+              ],
+              "answer": "48",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploads/超市.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/购物车.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/电视.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "糖糖买了 2 个卷笔刀 和 2 支铅笔，她一共花了多少钱？",
+              "question_images": [
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/铅笔.svg",
+                  "property_price": "¥ 2.00"
+                },
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/卷笔刀.svg",
+                  "property_price": "¥ 3.00"
+                }
+              ],
+              "answer": "10",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploads/超市.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/购物车.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/电视.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "珠珠买了 1 个圆规 和 2 个橡皮，他一共花了多少钱？",
+              "question_images": [
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/圆规.svg",
+                  "property_price": "¥ 8.00"
+                },
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/橡皮.svg",
+                  "property_price": "¥ 5.00"
+                }
+              ],
+              "answer": "18",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploads/超市.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/购物车.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/电视.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            },
+            {
+              "question_text": "小白买了 1 把美工刀 和 3 支铅笔，她一共花了多少钱？",
+              "question_images": [
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/铅笔.svg",
+                  "property_price": "¥ 2.00"
+                },
+                {
+                  "property_svg_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/美工刀.svg",
+                  "property_price": "¥ 10.00"
+                }
+              ],
+              "answer": "16",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploads/超市.png",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/购物车.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/svg/电视.svg"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 1,
+      "game_status": "success"
+    },
+    {
+      "id": "2da94f59-a1c7-4965-9a49-8168f4b14d22",
+      "name": "环球旅行-测量",
+      "knowledge_points": "（三）毫米、 分米和千米",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (19).png",
+      "game_introduction": "你将和悟灵一起，前往世界各地的神秘角落。准备好你的工具箱，用正确的工具去测量旅途中的各种物品吧！",
+      "game_operation": "\"从高耸的建筑到古老的文物，每一次精准的测量，都将帮助你解锁新的旅行目的地。\n让我们一起开启这场有趣的环球测量之旅吧！\"",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "",
+          "scene_background_img_url": null,
+          "question_answer": [
+            {
+              "question_text": "在中国北京旅行时，你来到天安门广场，看到一根高大的华表，请用正确的工具测量它柱子的周长。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/激光测量仪.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/皮尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/游标卡尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/卷尺.svg"
+              ],
+              "answer": "皮尺",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/天安门.png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": "#F9EACC"
+            },
+            {
+              "question_text": "在法国巴黎旅行时，你在战神广场发现了著名的埃菲尔铁塔，请用正确的工具测量它的高度。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/激光测量仪.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/皮尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/游标卡尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/卷尺.svg"
+              ],
+              "answer": "激光测量仪",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/埃菲尔.png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": "#CFF7FF"
+            },
+            {
+              "question_text": "在荷兰阿姆斯特丹旅行时，你在梵高博物馆看到了名画《星月夜》，请用正确的工具测量画框的边长。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/激光测量仪.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/皮尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/游标卡尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/卷尺.svg"
+              ],
+              "answer": "卷尺",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/意大利意大利 (2).png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": "#E9DCC7"
+            },
+            {
+              "question_text": "在日本东京旅行时，你在一间手工艺品店发现了一瓶玻璃工艺珠子，请用正确的工具测量玻璃珠的直径。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/激光测量仪.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/皮尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/游标卡尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/卷尺.svg"
+              ],
+              "answer": "游标卡尺",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/日本 (2).png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": "#F7F9FA"
+            },
+            {
+              "question_text": "在意大利佛罗伦萨裁缝铺时，你去定制一套西装，需要测量你的腰围。你应该使用哪种工具？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/激光测量仪.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/皮尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/游标卡尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/卷尺.svg"
+              ],
+              "answer": "皮尺",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/裁缝铺.png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": "#E9DCC7"
+            },
+            {
+              "question_text": "中国北京长城旅行时，想知道一块长城砖的长宽高，你应该使用哪种工具？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/激光测量仪.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/皮尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/游标卡尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/卷尺.svg"
+              ],
+              "answer": "卷尺",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/长城.png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": "#FFE4CA"
+            },
+            {
+              "question_text": "你在意大利威尼斯参加假面节，店家送你一只没有绑带的面具，需要根据自己的头围长度，选择合适长度的丝带来系在后脑勺。你应该使用哪种工具？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/激光测量仪.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/皮尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/游标卡尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/卷尺.svg"
+              ],
+              "answer": "皮尺",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/威尼斯.png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": "#F1F9E5"
+            },
+            {
+              "question_text": "你站在迪拜一座高楼的观景平台上，想知道平台正前方那面玻璃幕墙上“WELCOME”字样距离你大约有多远。你应该使用哪种工具？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/激光测量仪.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/皮尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/游标卡尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/卷尺.svg"
+              ],
+              "answer": "激光测量仪",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/迪拜.png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": "#F7DAFA"
+            },
+            {
+              "question_text": "你在巴西里约热内卢买了一件印有足球队徽的纪念球衣，想要确定自己的胸围和腰围，看看这件球衣是否真正合身。应该使用哪种工具？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/激光测量仪.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/皮尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/游标卡尺.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/卷尺.svg"
+              ],
+              "answer": "皮尺",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/巴西.png"
+              ],
+              "whiteboard_area_operable": [],
+              "background_color": "#D8FBD9"
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 1,
+      "game_status": "not_started"
+    },
+    {
+      "id": "95522a80-0aa4-478d-a7db-a37e92589cbc",
+      "name": "曹冲称象",
+      "knowledge_points": "（四）曹冲称象",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (3).png",
+      "game_introduction": "很久很久以前，孙权送给曹操一头大象。曹操想知道大象有多重，可大象又高又大，称放不下，怎么办呢？",
+      "game_operation": "根据提示和指引快来和曹冲一起想想办法吧！",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "#E6CFA8",
+          "scene_background_img_url": null,
+          "question_answer": [
+            {
+              "question_text": "请把大象牵上船，并标记正确的吃水浅刻度。",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/大象.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/石头.svg"
+              ],
+              "answer": "3",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (1).png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/船.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/吃水线.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/水.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "把石头搬上船，让船下沉至标注的刻度处。（一共需要几块石头呢？）",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/大象.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/石头.svg"
+              ],
+              "answer": "6",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (1).png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/船.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/吃水线.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/水.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "假设每块石头重100kg，那么这头大象有多重呢？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/大象.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/石头.svg"
+              ],
+              "answer": "600",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (1).png"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/船.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/吃水线.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/水.svg"
+              ],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 1,
+      "game_status": "not_started"
+    },
+    {
+      "id": "ac832699-4283-48dc-a6f2-f185562fc833",
+      "name": "星际迷宫",
+      "knowledge_points": "（五）多位数乘一位数",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (4).png",
+      "game_introduction": "传说这个迷宫里藏着许多神奇的数字宝藏。要找到这些宝藏，你需要运用你的数学智慧，解开迷宫中的谜题。",
+      "game_operation": "根据上方题干算式计算出正确答案，通过键盘方向键操控悟灵绕过障碍物，找到并触碰正确答案，才能顺利通关。如触碰到错误答案将会传送至起点。",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "",
+          "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (2).png",
+          "question_answer": [
+            {
+              "question_text": "23 × 2 = ？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项.svg"
+              ],
+              "answer": "46",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坐标.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍g.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍h.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "35 × 3 = ？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项.svg"
+              ],
+              "answer": "105",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坐标.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍g.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍h.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "48 × 2 = ？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项.svg"
+              ],
+              "answer": "96",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坐标.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍g.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍h.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "50 × 4 = ？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项.svg"
+              ],
+              "answer": "200",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坐标.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍g.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍h.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "256 × 4 = ？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项.svg"
+              ],
+              "answer": "1024",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坐标.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍g.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍h.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "320 × 5 = ？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项.svg"
+              ],
+              "answer": "1600",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坐标.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍g.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍h.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "405 × 2 = ？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项.svg"
+              ],
+              "answer": "210",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坐标.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍g.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍h.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "18 × 6= ？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项.svg"
+              ],
+              "answer": "108",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坐标.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍g.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍h.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "213 × 3= ？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项.svg"
+              ],
+              "answer": "639",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坐标.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍g.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍h.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "123 × 3 = ？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项.svg"
+              ],
+              "answer": "369",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坐标.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍a.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍b.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍c.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍d.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍e.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍f.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍g.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍h.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控.svg"
+              ],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 1,
+      "game_status": "success"
+    },
+    {
+      "id": "03b8c66a-6768-4086-b8b2-33a1275e9698",
+      "name": "几何小英雄闯关记",
+      "knowledge_points": "（六）线和角",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (5).png",
+      "game_introduction": "邪恶的巫师对几何王国施放了混乱魔法!现在轮到你出场了!请运用你所学的几何知识,帮助悟灵赶到修复现场。",
+      "game_operation": "根据上方题干，快速作答，点击正确的答案引导悟灵跨过障碍，如果答错悟灵则会停止前进。",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "",
+          "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (3).png",
+          "question_answer": [
+            {
+              "question_text": "观察下面图形，哪一个是线段？",
+              "question_images": [],
+              "answer": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确选项_线段.svg；https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/其他选项_射线.svg；https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/其他选项_直线.svg",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坑.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答对.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答错.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/错误悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正常悟灵.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "下面哪个说法是正确的？",
+              "question_images": [],
+              "answer": "正确_直线没有端点；其他_射线有两个端点；其他_线段没有端点",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坑.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答对.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答错.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/错误悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正常悟灵.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "直线有几个端点？",
+              "question_images": [],
+              "answer": "正确_0个；其他_1个；其他_2个",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坑.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答对.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答错.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/错误悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正常悟灵.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "角是由什么组成的？",
+              "question_images": [],
+              "answer": "正确_两条有公共端点的射线；其他_两条直线；其他_两条没有公共端点的射线",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坑.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答对.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答错.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/错误悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正常悟灵.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "直角是多少度？",
+              "question_images": [],
+              "answer": "正确_90°；其他_180°；其他_360°",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坑.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答对.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答错.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/错误悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正常悟灵.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "锐角的度数范围是？",
+              "question_images": [],
+              "answer": "其他_大于 90° 小于 180°；正确_大于 0° 小于 90°；其他_等于 90°",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坑.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答对.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答错.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/错误悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正常悟灵.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "钝角的度数范围是？",
+              "question_images": [],
+              "answer": "正确_大于 90° 小于 180°；其他_小于 90°；其他_等于 180°",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坑.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答对.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答错.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/错误悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正常悟灵.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "两条直线相交，如果形成四个直角，它们互相怎样？",
+              "question_images": [],
+              "answer": "正确_垂直；其他_相交但不垂直；其他_平行",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坑.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答对.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答错.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/错误悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正常悟灵.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "一个平角是多少度？",
+              "question_images": [],
+              "answer": "其他_360°；其他_90°；正确_180°",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坑.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答对.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答错.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/错误悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正常悟灵.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "一个周角是多少度？",
+              "question_images": [],
+              "answer": "其他_90°；其他_180°；正确_360°",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坑.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答对.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答错.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/错误悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正常悟灵.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "下列哪个角最大？",
+              "question_images": [],
+              "answer": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确选项_钝角.svg；https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/其他选项_锐角.svg；https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/其他选项_直角.svg",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坑.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答对.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答错.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/错误悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正常悟灵.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "下列哪个角是直角？",
+              "question_images": [],
+              "answer": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确选项_直角.svg；https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/其他选项_锐角.svg；https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/其他选项_钝角.svg",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/坑.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答对.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/答错.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正确悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/错误悟灵.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/正常悟灵.svg"
+              ],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 1,
+      "game_status": "not_started"
+    },
+    {
+      "id": "7ccb29fe-e91f-4f52-bf29-d7a313fbff37",
+      "name": "角度建筑师",
+      "knowledge_points": "（七）线和角(画角)",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (6).png",
+      "game_introduction": "城市设计师需要你帮忙,",
+      "game_operation": "拖动角的边,画出精确的角度!",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "",
+          "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (4).png",
+          "question_answer": [
+            {
+              "question_text": "请画出一个60° 的角。",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/量角器 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/确认.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/角度.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "请画出一个30° 的角。",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/量角器 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/确认.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/角度.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "请画出一个45° 的角。",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/量角器 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/确认.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/角度.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "请画出一个90° 的角。",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/量角器 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/确认.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/角度.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "请画出一个120° 的角。",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/量角器 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/确认.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/角度.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "请画出一个135° 的角。",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/量角器 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/确认.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/角度.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "请画出一个平角",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/量角器 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/确认.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/角度.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "请画出一个直角",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/量角器 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/确认.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/角度.svg"
+              ],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 1,
+      "game_status": "not_started"
+    },
+    {
+      "id": "ad357f44-7c4f-4d3c-a42f-40e4f097f95a",
+      "name": "煎饼翻转王",
+      "knowledge_points": "（八）分数的初步认识",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (7).png",
+      "game_introduction": "作为分数小能手，快来挑战煎饼翻转王的称号吧！",
+      "game_operation": "根据分数题干，用锅铲点击煎饼翻转，使反转数量和总数形成正比。",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "",
+          "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/bg (5).png",
+          "question_answer": [
+            {
+              "question_text": "用锅铲点击煎饼翻转，使翻转的占所有煎饼的：3/13",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/锅.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/饼（反面）.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/饼（正面）.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/锅铲.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "用锅铲点击煎饼翻转，使翻转的占所有煎饼的：1/13",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/锅.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/饼（反面）.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/饼（正面）.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/锅铲.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "用锅铲点击煎饼翻转，使翻转的占所有煎饼的：6/13",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/锅.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/饼（反面）.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/饼（正面）.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/锅铲.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "用锅铲点击煎饼翻转，使翻转的占所有煎饼的：9/13",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/锅.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/饼（反面）.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/饼（正面）.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/锅铲.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "用锅铲点击煎饼翻转，使翻转的占所有煎饼的：5/13",
+              "question_images": [],
+              "answer": "",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/锅.svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/饼（反面）.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/饼（正面）.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/锅铲.svg"
+              ],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 1,
+      "game_status": "not_started"
+    },
+    {
+      "id": "8b76a41f-91ae-4e42-a92d-c673c2f5c8cb",
+      "name": "寻宝冒险",
+      "knowledge_points": "（一）位置与方位",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (8).png",
+      "game_introduction": "悟灵在古老地图上发现了“方位之岛”。只有听懂灵光罗盘的方向密语，才能走到真正的宝箱前",
+      "game_operation": "根据上根据题干指示，通过点击右侧方向键操控悟灵走到正确的宝箱位置，点击提交确认。",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "#FFDFA9",
+          "scene_background_img_url": "",
+          "question_answer": [
+            {
+              "question_text": "悟灵先向北走了4格，又向东走了3格，请问ta拿到了哪个宝箱？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+              ],
+              "answer": "（10，9）",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                "主控初始位置：（7，5）"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "悟灵先向南方走了3格，请问ta拿到了哪个宝箱？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+              ],
+              "answer": "（7，2）",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                "主控初始位置：（7，5）"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "悟灵先向南走了1格，又向西走了5格，请问ta拿到了哪个宝箱？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+              ],
+              "answer": "（2，4）",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                "主控初始位置：（7，5）"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "悟灵先向西走了4格，又向北走了3格，请问ta拿到了哪个宝箱？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+              ],
+              "answer": "（3，8）",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                "主控初始位置：（7，5）"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "悟灵先向西走了3格，又向南走了4格，请问ta拿到了哪个宝箱？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+              ],
+              "answer": "（4，1）",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                "主控初始位置：（7，5）"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "悟灵先向南走了1格，又向东走了5格，请问ta拿到了哪个宝箱？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+              ],
+              "answer": "（12，4）",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                "主控初始位置：（7，5）"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "悟灵先向西走了5格，又向北走了1格，请问ta拿到了哪个宝箱？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+              ],
+              "answer": "（2，6）",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                "主控初始位置：（7，5）"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "悟灵先向东走了2格，又向南走了3格，请问ta拿到了哪个宝箱？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+              ],
+              "answer": "（9，2）",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                "主控初始位置：（7，5）"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "悟灵先向北走了2格，又向南走了3格，请问ta拿到了哪个宝箱？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+              ],
+              "answer": "（10，7）",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                "主控初始位置：（7，5）"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "悟灵先向西走了6格，又向南走了4格，请问ta拿到了哪个宝箱？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/方向键.svg"
+              ],
+              "answer": "（13，1）",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/地图坐标.png",
+                "主控初始位置：（7，5）"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/宝箱.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (1).svg"
+              ],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 2,
+      "game_status": "success"
+    },
+    {
+      "id": "2e0cbfab-06d9-4642-9c3d-eabab32e9f2d",
+      "name": "蘑菇的商之试炼",
+      "knowledge_points": "（二）除数是一位数的除法",
+      "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (9).png",
+      "game_introduction": "蘑菇公会以数字立约；能说出公平的“商”，便获通往下一林地的路标。",
+      "game_operation": "根据上方题干算式计算出正确答案，通过键盘方向键操控悟灵绕过障碍物，找到并触碰正确答案，才能顺利通关。如触碰到错误答案将会传送至起点。",
+      "game_scene": [
+        {
+          "scene_id": "1",
+          "scene_background_color": "",
+          "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/BG (6).png",
+          "question_answer": [
+            {
+              "question_text": "30÷3=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "10",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "150÷5=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "30",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "88÷2=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "44",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "280÷7=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "40",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "64÷2=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "32",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "240÷8=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "30",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "400÷8=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "50",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "60÷3=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "20",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "50÷5=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "10",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "66÷3=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "22",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "210÷5=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "42",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "438÷6=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "73",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "445÷5=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "89",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "836÷4=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "209",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            },
+            {
+              "question_text": "804÷4=？",
+              "question_images": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+              ],
+              "answer": "201",
+              "whiteboard_area_fixed": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+              ],
+              "whiteboard_area_operable": [
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+                " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+                "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+              ],
+              "background_color": null
+            }
+          ]
+        }
+      ],
+      "subject": "Math",
+      "grade": 3,
+      "semester": 2,
+      "game_status": "success"
+    }
+  ]
+}

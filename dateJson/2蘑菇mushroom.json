@@ -1,0 +1,306 @@
+{
+  "id": "2e0cbfab-06d9-4642-9c3d-eabab32e9f2d",
+  "name": "蘑菇的商之试炼",
+  "knowledge_points": "（二）除数是一位数的除法",
+  "cover_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/封面 (9).png",
+  "game_introduction": "蘑菇公会以数字立约；能说出公平的“商”，便获通往下一林地的路标。",
+  "game_operation": "根据上方题干算式计算出正确答案，通过键盘方向键操控悟灵绕过障碍物，找到并触碰正确答案，才能顺利通关。如触碰到错误答案将会传送至起点。",
+  "game_scene": [
+    {
+      "scene_id": "1",
+      "scene_background_color": "",
+      "scene_background_img_url": "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/BG (6).png",
+      "question_answer": [
+        {
+          "question_text": "30÷3=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "10",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "150÷5=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "30",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "88÷2=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "44",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "280÷7=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "40",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "64÷2=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "32",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "240÷8=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "30",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "400÷8=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "50",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "60÷3=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "20",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "50÷5=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "10",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "66÷3=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "22",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "210÷5=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "42",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "438÷6=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "73",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "445÷5=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "89",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "836÷4=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "209",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        },
+        {
+          "question_text": "804÷4=？",
+          "question_images": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/选项_蘑菇.svg"
+          ],
+          "answer": "201",
+          "whiteboard_area_fixed": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/场景坐标 (1).svg"
+          ],
+          "whiteboard_area_operable": [
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/主控 (2).svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物1_长树干.svg",
+            " https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物2_石头.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物3_食人花.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物4_短树干.svg",
+            "https://9jian-textbookly-dev.oss-cn-shenzhen.aliyuncs.com/images/uploaded/障碍物5_树桩.svg"
+          ],
+          "background_color": null
+        }
+      ]
+    }
+  ],
+  "subject": "Math",
+  "grade": 3,
+  "semester": 2,
+  "game_status": null
+}

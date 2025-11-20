@@ -13,3 +13,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Video.js 样式修复 */
+.video-js {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.video-js video {
+  width: 100% !important;
+  height: auto !important;
+  background-color: #000;
+}
+
+.vjs-tech {
+  width: 100% !important;
+  height: 100% !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

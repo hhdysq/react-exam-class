@@ -134,19 +134,17 @@ const getVideoType = (url: string): string => {
 const VideoPlayer = ({ src, onReady }: { src: string; onReady?: (player: any) => void }) => {
   const videoRef = useRef<HTMLVideoElement>(null);
   const playerRef = useRef<any>(null);
-  const containerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    let player: any;
-
     if (videoRef.current && !playerRef.current) {
-      player = videojs(videoRef.current, {
+      const player = videojs(videoRef.current, {
         controls: true,
         responsive: true,
         fluid: true,
+        aspectRatio: '16:9',
         playbackRates: [0.5, 1, 1.25, 1.5, 2],
         controlBar: {
-          pictureInPictureToggle: false, // 隐藏 PictureInPicture 按钮
+          pictureInPictureToggle: false,
         },
         html5: {
           vhs: {
@@ -160,19 +158,15 @@ const VideoPlayer = ({ src, onReady }: { src: string; onReady?: (player: any) =>
 
       playerRef.current = player;
 
-      // 等待视频元数据加载完成
       player.ready(() => {
         if (onReady) {
           onReady(player);
         }
-        // 移除 PictureInPicture 按钮（如果存在）
-        const pipButton = player.controlBar.pictureInPictureToggle;
-        if (pipButton) {
-          pipButton.hide();
-        }
+        const controlBar = player.getChild('controlBar') as any;
+        const pipButton = controlBar?.getChild?.('PictureInPictureToggle');
+        pipButton?.hide?.();
       });
 
-      // 处理视频加载错误
       player.on('error', () => {
         const error = player.error();
         if (error) {
@@ -180,26 +174,18 @@ const VideoPlayer = ({ src, onReady }: { src: string; onReady?: (player: any) =>
         }
       });
 
-      // 监听视频元数据加载完成
       player.on('loadedmetadata', () => {
-        console.log('Video metadata loaded', {
-          videoWidth: player.videoWidth(),
-          videoHeight: player.videoHeight(),
-          duration: player.duration()
+        console.log('metadata', {
+          width: player.videoWidth(),
+          height: player.videoHeight(),
+          duration: player.duration(),
+          readyState: player.readyState()
         });
       });
 
-      // 监听视频可以播放时
-      player.on('loadeddata', () => {
-        console.log('Video loaded and ready to play');
-      });
-
-      // 确保视频源正确加载
       if (src) {
         const videoType = getVideoType(src);
-        console.log('Loading video:', src, 'type:', videoType);
         player.src({ src, type: videoType });
-        player.load();
       }
     }
 
@@ -211,32 +197,24 @@ const VideoPlayer = ({ src, onReady }: { src: string; onReady?: (player: any) =>
     };
   }, []);
 
-  // 当 src 改变时，更新视频源
   useEffect(() => {
     if (playerRef.current && src) {
       const videoType = getVideoType(src);
       playerRef.current.src({ src, type: videoType });
-      playerRef.current.load();
     }
   }, [src]);
 
-  const videoType = src ? getVideoType(src) : 'video/mp4';
-
   return (
-    <div ref={containerRef} data-vjs-player style={{ width: '100%' }}>
+    <div data-vjs-player style={{ width: '100%', maxWidth: '100%' }}>
       <video
         ref={videoRef}
         className="video-js vjs-big-play-centered"
         playsInline
         preload="auto"
-        crossOrigin="anonymous"
         disablePictureInPicture
-      >
-        <source src={src} type={videoType} />
-        <p className="vjs-no-js">
-          要查看此视频，请启用 JavaScript，并考虑升级到支持 HTML5 视频的 Web 浏览器。
-        </p>
-      </video>
+        controlsList="nodownload"
+        style={{ width: '100%', height: 'auto' }}
+      />
     </div>
   );
 };
@@ -280,8 +258,19 @@ function FilePreview() {
         );
       case 'VIDEO':
         return (
-          <div style={{ padding: '20px', maxWidth: '100%' }}>
-            <VideoPlayer src={file_url} />
+          <div style={{ 
+            padding: '20px', 
+            width: '100%', 
+            maxWidth: '1200px', 
+            margin: '0 auto',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            minHeight: '400px'
+          }}>
+            <div style={{ width: '100%' }}>
+              <VideoPlayer src={file_url} />
+            </div>
           </div>
         );
       case 'DOCUMENT':
